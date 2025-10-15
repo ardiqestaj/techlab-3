@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "age": 20,
+      "course": "Computer Science"
+    },
+    {
+      "id": 2,
+      "name": "Ardiiiiii",
+      "email": "ardi.qestaj@speeex.com",
+      "age": 22,
+      "course": "Mathematics"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "age": 21,
+      "course": "Physics"
+    },
+    {
+      "id": 4,
+      "name": "Ardi",
+      "email": "ardiqestaj@gmail.com",
+      "age": "60",
+      "course": "Nodejs"
+    },
+    {
+      "id": 5,
+      "name": "test student",
+      "email": "ljdhfjkshdf@gmail.com",
+      "age": "35",
+      "course": "Javascript"
+    },
+    {
+      "id": 6,
+      "name": "Test student",
+      "email": "testemail@gmail.com",
+      "age": 45,
+      "course": "Java"
+    },
+    {
+      "id": 6,
+      "name": "first student",
+      "email": "emailfirststudent@gmail.com",
+      "age": 23,
+      "course": "Kotlin"
+    },
+    {
+      "id": 9,
+      "name": "sfdgfd",
+      "email": "glkjfsgj@gmail.com",
+      "age": 20,
+      "course": "ghfghfgh"
+    }
+  ]
+}
